@@ -1,0 +1,24 @@
+body{
+    color: black;
+    background: blue;
+}
+h3{
+    color: white;
+    background: black;
+    width: 80%;
+    height: 7%;
+    font-size: 22px;
+    padding-top: 12px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: red;
+    font-size: 20px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+img{
+    height: 250px;
+}
