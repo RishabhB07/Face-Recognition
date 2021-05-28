@@ -8,6 +8,7 @@ h3{
     width: 80%;
     height: 7%;
     font-size: 22px;
+    padding-top: 12px;
 }
 .name_of_objects, #result_object_name, #result_object_accuracy{
     color: red;
